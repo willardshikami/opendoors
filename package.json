@@ -1,0 +1,28 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "a blog created using react",
+  "main": "index.js",
+  "scripts": {
+    "server": "babel-node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willardshikami/react-blog.git"
+  },
+  "keywords": [],
+  "author": "Willard Shikami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willardshikami/react-blog/issues"
+  },
+  "homepage": "https://github.com/willardshikami/react-blog#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
