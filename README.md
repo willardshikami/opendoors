@@ -1,2 +1,2 @@
 # react-blog
-a blog created using react 
+a chat app created using react 
